@@ -78,8 +78,7 @@ Evaluated the model using the following metrics:
 ## References
 - [Scikit-learn Logistic Regression Documentation](https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression)
 - [Kaggle Dataset](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
-- 
-
+  
 
 Author
 Sonali18-tech
